@@ -10,7 +10,7 @@ data:
       </head>
       <body>
         This is an example KOTS application.
-        <p>This is text from a user config value: 'fgsdf' </p>
+        <p>This is text from a user config value: 'please change this value' </p>
         </br>
         This is a hidden value: 'ADXgURiBbt0MNQtYL3ErjL5miapJtANCxsmOcWD_'
       </body>
